@@ -1,0 +1,24 @@
+{
+  "name": "nodebankofthailandapi",
+  "version": "1.0.0",
+  "description": "rest api of bank of thailand in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardencod3/nodeBOTAPI.git"
+  },
+  "author": "ardencod3 <ardencod3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardencod3/nodeBOTAPI/issues"
+  },
+  "homepage": "https://github.com/ardencod3/nodeBOTAPI#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "query-string": "^4.3.4",
+    "unirest": "^0.5.1"
+  }
+}
